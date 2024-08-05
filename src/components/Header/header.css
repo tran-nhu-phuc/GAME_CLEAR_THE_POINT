@@ -1,0 +1,16 @@
+.header-game__container {
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+
+.header-game__container .header-game__score,
+.header-game__time {
+    display: flex;
+    gap: 20px;
+}
+
+.header-game__container .header-game__restart .header-game__restart-button {
+    padding: 5px 20px;
+    cursor: pointer;
+}

@@ -1,0 +1,9 @@
+.game-board__container {
+    position: relative;
+    width: 550px;
+    /* chiều rộng của hộp chứa */
+    height: 500px;
+    /* chiều cao của hộp chứa */
+    border: 1px solid black;
+    overflow: hidden;
+}
